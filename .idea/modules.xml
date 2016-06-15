@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maventest/ear/ear.iml" filepath="$PROJECT_DIR$/maventest/ear/ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventest/ejbs/ejbs.iml" filepath="$PROJECT_DIR$/maventest/ejbs/ejbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventest/projects/logging/logging.iml" filepath="$PROJECT_DIR$/maventest/projects/logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventest/maventest.iml" filepath="$PROJECT_DIR$/maventest/maventest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventest/primary-source/primary-source.iml" filepath="$PROJECT_DIR$/maventest/primary-source/primary-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventest/projects/projects.iml" filepath="$PROJECT_DIR$/maventest/projects/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventest/servlets/servlet/servlet.iml" filepath="$PROJECT_DIR$/maventest/servlets/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventest/servlets/servlets.iml" filepath="$PROJECT_DIR$/maventest/servlets/servlets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
